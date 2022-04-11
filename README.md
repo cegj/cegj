@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an IT student.
+
+You can reach me at:
+
+- E-mail: cegasparjr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cegj/
+
 <!--
 **cegj/cegj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
