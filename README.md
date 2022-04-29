@@ -1,8 +1,9 @@
 ### Hi there 👋
+## Olá! 👋
 
-I'm an IT student.
+I'm an IT student at Pontifical Catholic University of Minas Gerais (BR).
 
-You can reach me at:
+You can reach me out at:
 
 - E-mail: cegasparjr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cegj/
