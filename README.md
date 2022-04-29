@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm an IT student at Pontifical Catholic University of Minas Gerais (BR).
+I'm an Information Systems undergraduate student at [Pontifical Catholic University of Minas Gerais (BR)](http://portal.pucminas.br/ari/index_padrao.php?pagina=1908).
+
+In addition to that, I'm studying web development with HTML, CSS, Javascript and PHP.
 
 You can reach me out at:
 
