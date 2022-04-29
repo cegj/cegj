@@ -9,6 +9,21 @@ You can reach me out at:
 - E-mail: cegasparjr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/cegj/
 
+
+__________________
+
+### Olá 👋
+
+Sou um estudante de Sistemas de Informação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx).
+
+Além disso, estou estudando desenvolvimento web com HTML, CSS, Javascript e PHP.
+
+Você pode me encontrar por: 
+
+- E-mail: cegasparjr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cegj/
+
+
 <!--
 **cegj/cegj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
