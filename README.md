@@ -1,5 +1,4 @@
 ### Hi there 👋
-## Olá! 👋
 
 I'm an IT student at Pontifical Catholic University of Minas Gerais (BR).
 
