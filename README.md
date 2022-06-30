@@ -2,7 +2,7 @@
 
 I'm an Information Systems undergraduate student at [Pontifical Catholic University of Minas Gerais (BR)](http://portal.pucminas.br/ari/index_padrao.php?pagina=1908).
 
-In addition to that, I'm studying web development with HTML, CSS, Javascript and PHP.
+In addition to that, I'm studying web development with HTML, CSS, Javascript and backend technologies.
 
 You can reach me out at:
 
@@ -16,7 +16,7 @@ __________________
 
 Sou um estudante de Sistemas de Informação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx).
 
-Além disso, estou estudando desenvolvimento web com HTML, CSS, Javascript e PHP.
+Além disso, estou estudando desenvolvimento web com HTML, CSS, Javascript e backend technologies.
 
 Você pode me encontrar por: 
 
