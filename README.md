@@ -16,7 +16,7 @@ __________________
 
 Sou um estudante de Sistemas de Informação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx).
 
-Além disso, estou estudando desenvolvimento web com HTML, CSS, Javascript e backend technologies.
+Além disso, estou estudando desenvolvimento web com HTML, CSS, Javascript e tecnologias de backend.
 
 Você pode me encontrar por: 
 
