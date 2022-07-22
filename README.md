@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 I'm an Information Systems undergraduate student at [Pontifical Catholic University of Minas Gerais (BR)](http://portal.pucminas.br/ari/index_padrao.php?pagina=1908).
 
@@ -14,7 +14,7 @@ You can reach me out at:
 
 __________________
 
-### Olá 👋
+### Olá mundo 👋
 
 Sou um estudante de Sistemas de Informação na [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Sistemas-de-Informacao-Bacharelado.aspx).
 
