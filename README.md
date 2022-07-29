@@ -4,7 +4,7 @@ I'm an Information Systems undergraduate student at [Pontifical Catholic Univers
 
 In addition to that, I'm studying web development with HTML, CSS, Javascript and backend technologies.
 
-Take a look at my resume and portfolio at: [https://cegj.github.io/](https://cegj-github-io.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
+Take a look at my resume and portfolio at: [https://cegj.me/](https://cegj-me.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp)
 
 You can reach me out at:
 
@@ -20,7 +20,7 @@ Sou um estudante de Sistemas de Informação na [Pontifícia Universidade Catól
 
 Além disso, estou estudando desenvolvimento web com HTML, CSS, Javascript e tecnologias de backend.
 
-Veja meu currículo e portfólio em: https://cegj.github.io/
+Veja meu currículo e portfólio em: https://cegj.me/
 
 Você pode me encontrar por: 
 
